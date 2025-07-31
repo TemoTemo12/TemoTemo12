@@ -5,47 +5,16 @@
 <h1 align="center">Hi 👋, I'm Temo :)</h1>
 <h3 align="center">A passionate Backend Developer from Georgia!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=temotemo12&label=Profile%20views&color=0e75b6&style=flat" alt="temotemo12" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=temotemo12&label=Profile%20views&color=0e75b6&style=flat" alt="temotemo12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=temotemo12" alt="temotemo12" /></a> </p>
-
-- 🔭 I’m currently working on **Major Projects**
-
-- 🌱 I’m currently learning **React.js, Tailwind.css**
-
-- 💬 Ask me about **Backend development **
-
-- 📫 How to reach me **temo92782@gmail.com**
-
-- 👀 I’m interested in  Backend Development 
-
-- 😄 Pronouns: He/Him
-
-- 🙈 Lastname:   Velijanashvili / ველიჯანაშვილი
-
- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/temo temo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="temo temo" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/temo temo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="temo temo" height="30" width="40" /></a>
-<a href="https://fb.com/temo temo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="temo temo" height="30" width="40" /></a>
-<a href="https://instagram.com/temo temo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="temo temo" height="30" width="40" /></a>
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=temotemo12" alt="temotemo12" /></a> </p>
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -71,7 +40,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Major Projects<br><br>🌱 I’m currently learning React.js, Tailwind.css<br><br>💬 Ask me about **Backend development **<br><br>📫 How to reach me temo92782@gmail.com<br><br>👀 I’m interested in Backend Development<br><br>😄 Pronouns: He/Him<br><br>🙈 Lastname: Velijanashvili / ველიჯანაშვილი<br><br>Connect with me:</p>
+<p align="center">🔭 I’m currently working on Major Projects<br><br>🌱 I’m currently learning React.js, Tailwind.css<br><br>💬 Ask me about **Backend development **<br><br>📫 How to reach me temo92782@gmail.com<br><br>👀 I’m interested in Backend Development<br><br>😄 Pronouns: He/Him<br><br>🙈 Lastname: Velijanashvili / ველიჯანაშვილი<br><br>Connect with me:</p>
 
 ###
 
