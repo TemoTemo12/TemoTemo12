@@ -51,7 +51,6 @@
 
 
 
-
 <img src="https://raw.githubusercontent.com/TemoTemo12/TemoTemo12/output/snake.svg" alt="Snake animation" />
 
 ###
