@@ -3,25 +3,21 @@
 
 
 <h1 align="center">Hi 👋, I'm Temo :)</h1>
-<h3 align="center">A passionate web developer from Georgia!</h3>
+<h3 align="center">A passionate Backend Developer from Georgia!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temotemo12&label=Profile%20views&color=0e75b6&style=flat" alt="temotemo12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=temotemo12" alt="temotemo12" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Major Projects**
 
-- 🌱 I’m currently learning **Javascript, Bootstrap**
+- 🌱 I’m currently learning **React.js, Tailwind.css**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TemoTemo12/GOA-Homeworks](https://github.com/TemoTemo12/GOA-Homeworks)
-
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Backend development **
 
 - 📫 How to reach me **temo92782@gmail.com**
 
-- ⚡ Fun fact **i Think GOA is best**
-
-- 👀 I’m interested in  web development
+- 👀 I’m interested in  Backend Development 
 
 - 😄 Pronouns: He/Him
 
