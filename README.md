@@ -47,3 +47,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=temotemo12&show_icons=true&locale=en" alt="temotemo12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=temotemo12&" alt="temotemo12" /></p>
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/TemoTemo12/TemoTemo12/output/snake.svg" alt="Snake animation" />
+
+###
